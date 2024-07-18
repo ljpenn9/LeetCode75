@@ -1,0 +1,15 @@
+/Users/laneypennington/LeetCode75/Candies/obj/Debug/net8.0/Candies.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laneypennington/LeetCode75/Candies/obj/Debug/net8.0/Candies.AssemblyInfoInputs.cache
+/Users/laneypennington/LeetCode75/Candies/obj/Debug/net8.0/Candies.AssemblyInfo.cs
+/Users/laneypennington/LeetCode75/Candies/obj/Debug/net8.0/Candies.csproj.CoreCompileInputs.cache
+/Users/laneypennington/LeetCode75/Candies/obj/Debug/net8.0/Candies.sourcelink.json
+/Users/laneypennington/LeetCode75/Candies/bin/Debug/net8.0/Candies
+/Users/laneypennington/LeetCode75/Candies/bin/Debug/net8.0/Candies.deps.json
+/Users/laneypennington/LeetCode75/Candies/bin/Debug/net8.0/Candies.runtimeconfig.json
+/Users/laneypennington/LeetCode75/Candies/bin/Debug/net8.0/Candies.dll
+/Users/laneypennington/LeetCode75/Candies/bin/Debug/net8.0/Candies.pdb
+/Users/laneypennington/LeetCode75/Candies/obj/Debug/net8.0/Candies.dll
+/Users/laneypennington/LeetCode75/Candies/obj/Debug/net8.0/refint/Candies.dll
+/Users/laneypennington/LeetCode75/Candies/obj/Debug/net8.0/Candies.pdb
+/Users/laneypennington/LeetCode75/Candies/obj/Debug/net8.0/Candies.genruntimeconfig.cache
+/Users/laneypennington/LeetCode75/Candies/obj/Debug/net8.0/ref/Candies.dll
