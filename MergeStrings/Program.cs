@@ -24,7 +24,7 @@ internal class Program
     private static void Main(string[] args)
     {
         string firstWord = "abcd";
-        string secondWord = "wxyz1234";
+        string secondWord = "wxyz";
         string merged = Program.MergeAlternately(firstWord, secondWord);
         Console.WriteLine($"The first word is: {firstWord}");
         Console.WriteLine($"The second word is: {secondWord}");
