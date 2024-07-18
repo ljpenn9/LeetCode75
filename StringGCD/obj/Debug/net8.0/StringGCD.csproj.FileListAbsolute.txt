@@ -1,0 +1,15 @@
+/Users/laneypennington/LeetCode75/StringGCD/obj/Debug/net8.0/StringGCD.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laneypennington/LeetCode75/StringGCD/obj/Debug/net8.0/StringGCD.AssemblyInfoInputs.cache
+/Users/laneypennington/LeetCode75/StringGCD/obj/Debug/net8.0/StringGCD.AssemblyInfo.cs
+/Users/laneypennington/LeetCode75/StringGCD/obj/Debug/net8.0/StringGCD.csproj.CoreCompileInputs.cache
+/Users/laneypennington/LeetCode75/StringGCD/obj/Debug/net8.0/StringGCD.sourcelink.json
+/Users/laneypennington/LeetCode75/StringGCD/bin/Debug/net8.0/StringGCD
+/Users/laneypennington/LeetCode75/StringGCD/bin/Debug/net8.0/StringGCD.deps.json
+/Users/laneypennington/LeetCode75/StringGCD/bin/Debug/net8.0/StringGCD.runtimeconfig.json
+/Users/laneypennington/LeetCode75/StringGCD/bin/Debug/net8.0/StringGCD.dll
+/Users/laneypennington/LeetCode75/StringGCD/bin/Debug/net8.0/StringGCD.pdb
+/Users/laneypennington/LeetCode75/StringGCD/obj/Debug/net8.0/StringGCD.dll
+/Users/laneypennington/LeetCode75/StringGCD/obj/Debug/net8.0/refint/StringGCD.dll
+/Users/laneypennington/LeetCode75/StringGCD/obj/Debug/net8.0/StringGCD.pdb
+/Users/laneypennington/LeetCode75/StringGCD/obj/Debug/net8.0/StringGCD.genruntimeconfig.cache
+/Users/laneypennington/LeetCode75/StringGCD/obj/Debug/net8.0/ref/StringGCD.dll
