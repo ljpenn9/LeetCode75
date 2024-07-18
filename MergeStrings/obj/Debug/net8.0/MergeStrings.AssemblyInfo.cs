@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MergeStrings")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6f4d8f9f47409c290f4dd966ee72fa2859a9604")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4edce28c2cbcb0e4045c76449d9c3f436eabac01")]
 [assembly: System.Reflection.AssemblyProductAttribute("MergeStrings")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MergeStrings")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
